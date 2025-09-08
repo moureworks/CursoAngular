@@ -41,4 +41,5 @@ healCharacter(strider,10);
 healCharacter(strider,30);
 
 strider.showHp();
+
 export{};
