@@ -12,4 +12,5 @@ console.log({
     name,hpPoints,isAlive
 })
 
+
 export{}; //A vite le damos a entender que este archivo es un módulo
