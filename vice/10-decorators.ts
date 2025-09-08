@@ -28,3 +28,4 @@ const myClass = new SuperClass();
 console.log(myClass);
 
 
+
