@@ -1,4 +1,4 @@
-
+ce
 //const skills: string[] = ['Bash', 'Counter','Healing'];         //Array de strings
 //Si sabemos que la variable no va a cambiar, usar constante
 
@@ -21,5 +21,6 @@ strider.hometown='Rivendell';
 
 
 console.table(strider);
+
 
 export{}
